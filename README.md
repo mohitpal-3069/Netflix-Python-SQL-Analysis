@@ -137,13 +137,12 @@ The analysis helps identify important patterns in Netflix's content library, inc
 - Countries contributing the largest amount of content.
 - The distribution of content across different ratings.
 
-*Detailed numerical insights will be added after completing the full analysis.*
+
 
 ---
 
 ## Project Structure
 
-```text
 Netflix-Python-SQL-Analysis/
 │
 ├── screenshots/
@@ -153,9 +152,13 @@ Netflix-Python-SQL-Analysis/
 │   ├── step4_top_10_countries.png
 │   └── step5_content_by_rating.png
 │
+├── sql/
 ├── analysis.py
+├── Netflix_SQL_Project.sql
 ├── netflix_titles.csv
-└└── README.md
+├── requirements.txt
+├── LICENSE
+└── README.md
 
 ### Key Insights
 
