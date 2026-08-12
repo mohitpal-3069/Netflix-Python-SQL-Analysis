@@ -50,7 +50,11 @@ The dataset contains information about Netflix movies and TV shows, including:
 - Duration
 - Listed In (Genres)
 - Description
+### Data Source
 
+The dataset used in this project was obtained from Kaggle.
+
+**Source:** [Netflix Shows Dataset](https://www.kaggle.com/datasets/shivamb/netflix-shows)
 The dataset is stored in:
 
 `netflix_titles.csv`
