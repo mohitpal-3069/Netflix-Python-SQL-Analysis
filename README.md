@@ -143,4 +143,12 @@ Netflix-Python-SQL-Analysis/
 │
 ├── analysis.py
 ├── netflix_titles.csv
-└── README.md
+└── README.md└── README.md
+
+### Key Insights## Key Insights
+
+- Netflix's content library has grown significantly over the years.
+- Movies make up a larger share of the catalog than TV Shows.
+- The United States contributes a significant amount of Netflix content.
+- The analysis identifies the most common genres and content ratings.
+- Recent years show changes in Netflix's content release patterns.
