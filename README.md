@@ -143,9 +143,9 @@ Netflix-Python-SQL-Analysis/
 │
 ├── analysis.py
 ├── netflix_titles.csv
-└── README.md└── README.md
+└└── README.md
 
-### Key Insights## Key Insights
+### Key Insights
 
 - Netflix's content library has grown significantly over the years.
 - Movies make up a larger share of the catalog than TV Shows.
