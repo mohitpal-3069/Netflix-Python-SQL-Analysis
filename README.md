@@ -14,7 +14,15 @@ The analysis focuses on questions such as:
 - What are the most common content ratings?
 
 ---
+## Tools & Technologies
 
+- **Python** – Data cleaning, analysis, and visualization
+- **Pandas** – Data manipulation and preprocessing
+- **Matplotlib** – Data visualization
+- **SQL** – Data querying and analysis
+- **MySQL** – Database management and SQL analysis
+- **VS Code** — Development environment
+- **Git & GitHub** – Version control and project management
 ## Business Questions
 
 The project aims to answer the following questions:
